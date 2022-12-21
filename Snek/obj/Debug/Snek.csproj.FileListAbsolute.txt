@@ -1,0 +1,8 @@
+C:\Users\pauff\source\repos\Snake_Consola\Snek\bin\Debug\Snek.exe.config
+C:\Users\pauff\source\repos\Snake_Consola\Snek\bin\Debug\Snek.exe
+C:\Users\pauff\source\repos\Snake_Consola\Snek\bin\Debug\Snek.pdb
+C:\Users\pauff\source\repos\Snake_Consola\Snek\obj\Debug\Snek.csproj.AssemblyReference.cache
+C:\Users\pauff\source\repos\Snake_Consola\Snek\obj\Debug\Snek.csproj.SuggestedBindingRedirects.cache
+C:\Users\pauff\source\repos\Snake_Consola\Snek\obj\Debug\Snek.csproj.CoreCompileInputs.cache
+C:\Users\pauff\source\repos\Snake_Consola\Snek\obj\Debug\Snek.exe
+C:\Users\pauff\source\repos\Snake_Consola\Snek\obj\Debug\Snek.pdb
